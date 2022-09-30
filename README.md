@@ -1,4 +1,4 @@
-# exo2
+# profileApp
 
 A new Flutter project.
 
